@@ -1,0 +1,13 @@
+.nav-names {
+    list-style: none;
+}
+.nav-names li {
+    display: inline;
+    padding: 8px 20px;
+}
+.nav-names li a {
+    text-decoration: none;
+}
+.nav-names li:hover {
+    background-color: aqua;
+}
